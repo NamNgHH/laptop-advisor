@@ -162,7 +162,7 @@ def parse_budget(text: str):
 
 def main():
     print("=" * 60)
-    print("  eGain Laptop Advisor  (type 'quit' anytime to exit)")
+    print("  Laptop Advisor  (type 'quit' anytime to exit)")
     print("=" * 60)
     print(f"{BOT} Hi! I'm here to help you find the right laptop.")
 
