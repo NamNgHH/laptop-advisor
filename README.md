@@ -95,3 +95,5 @@ Start
                          └─ Amazon search links
                              └─ Search again?  ──> restart or exit
 ```
+### Example
+<img width="749" height="503" alt="demo" src="https://github.com/user-attachments/assets/12a121fb-226a-40fc-a5ad-6c3b1dbbedca" />
